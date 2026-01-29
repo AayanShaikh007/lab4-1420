@@ -12,9 +12,11 @@ public class Main {
             System.out.println("i = " + i);
         }
 
+//         simple for loop and printing more stuff
 
-
-
+        for (int i = 1; i<=5; i++) {
+            System.out.println("hello");
+        }
 
     }
 }
